@@ -14,7 +14,7 @@ A responsive HTML/CSS/JavaScript website showcasing interactive mini-games.
 - Hosted on GitHub Pages
 
 ## 🔗 Live Demo
-[Click here](https://yourusername.github.io/gaming-website)
+[Click here](http://game-zone-bice.vercel.app/)
 
 ## 🧠 Lessons Learned
 - DOM manipulation
