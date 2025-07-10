@@ -2,7 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import "./index.css";
 import Main from "./components/Main";
-import Sign from "./components/sign";
+import Sign from "./components/Sign";
 import LogIn from "./components/LogIn";
 import About from "./components/About";
 import Contact from "./components/Contact";
